@@ -14,8 +14,10 @@
 `rm tech221.txt`
 - Moving file state file first then location 
 `mv tech221.txt tech221`
--Setting permissions so only you (owner) can read/write/execute:
+- Setting permissions so only you (owner) can read/write/execute:
 `chmod 700 tech221.txt`
+- Exit Linux terminal
+`exit`
 
 # Security groups in AWS
 
