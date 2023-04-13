@@ -73,9 +73,12 @@
 ## Locating something from a file
 
 - Using HEAD
+
 ![head](https://user-images.githubusercontent.com/129324316/231771200-534084ec-3aa9-450c-a6c7-8cbd41ed0636.png)
 
 - As you can see, after running `head -1` the first line from the text file is shown
+
+
 ![image](https://user-images.githubusercontent.com/129324316/231772034-5fd897c1-c0bd-4905-bf80-f20f4d022099.png)
 ![nltech221](https://user-images.githubusercontent.com/129324316/231772066-99935934-b835-4d43-bf1e-52fd47c224e5.png)
 
