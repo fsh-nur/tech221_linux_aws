@@ -18,6 +18,14 @@
 `chmod 700 tech221.txt`
 - Exit Linux terminal
 `exit`
+- Lists the details of all the files inside the folder.
+`ll -a`
+- Sudo grants admin permission.
+`sudo <command>`
+- Opens "task manager".
+`top`
+- Opens the .txt file with nano editor.
+`nano <name>.txt`
 
 # Security groups in AWS
 
