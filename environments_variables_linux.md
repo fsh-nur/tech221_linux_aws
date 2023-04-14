@@ -16,11 +16,11 @@
 ## Finding environment variables/ variables in linux
 
 `printenv` - prints all existing environment variables
-`printenv PWD` - locating an environemnt vairable with a specific name
+`printenv PWD` - locating an environemnt variable with a specific name
 
 ![locationg environemtn variable](https://user-images.githubusercontent.com/129324316/232076097-15f135ef-2032-47e5-acff-bf8a88846f74.png)
 
-`env` - another way of seeing environemtn variable
+`env` - another way of seeing environment variable
 
 
 ## Creating a variable in linux
