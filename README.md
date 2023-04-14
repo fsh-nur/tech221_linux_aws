@@ -34,8 +34,6 @@
 `sudo apt install nginx`
 - Restart nginx
 `sudo systemctl restart nginx`
-
-sudo systemctl enable nginx
 - In order to update
 `sudo apt update`
 - Upgrade system and automate "continue"
