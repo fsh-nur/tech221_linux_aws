@@ -9,4 +9,11 @@
 4. Change permissions so you can execute it:
 `sudo chmod +x provision.sh
 5. Run the script:
-sudo ./provision.sh
+`sudo ./provision.sh`
+6. We then check to the status and making sure everything is running with the below command.
+`sudo systemctl status nginx`
+7. Copy your public IPv4 addres and pate it in a new window in your internet browser to open the page
+8. You will see this image once opened:
+![image](https://user-images.githubusercontent.com/129324316/232021021-dec8015c-e2b7-44ba-bb88-e4924ca4be76.png)
+
+
