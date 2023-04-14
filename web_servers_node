@@ -3,7 +3,7 @@
 
 ## How do Webservers work?
 
-Computer programs that dispense the web page when they are requested using th web client. The machines where these programs run are called servers. They can be downloaded onto a computer system. They will receive a request from a web client access it from a storage location and send it back.
+Computer programs that dispense the web page when they are requested using the web client. The machines where these programs run are called servers. They can be downloaded onto a computer system. They will receive a request from a web client access it from a storage location and send it back.
 
 This can be done is 4 main steps:
 1. Obtaining the IP Address from the domain name
