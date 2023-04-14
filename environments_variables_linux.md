@@ -2,15 +2,44 @@
 
 ## How to provision an environment in linux using bash script
 
-1. Naming the environment
+1. Launch an instant
 
-![1  nameing](https://user-images.githubusercontent.com/129324316/232074574-91c5e967-47c2-4687-8318-d0dc840f228a.png)
+![1  Launch Instance](https://user-images.githubusercontent.com/129324316/232101833-d9a0be87-2d9b-4858-a57e-dac8b8f19ccc.png)
 
-2. Inputting the bash script used in order to install nginx within the "user_data! in "Adavanced Options" when scrolling down
 
-![4  bash in user_data automation](https://user-images.githubusercontent.com/129324316/232074781-0792a45f-c01a-4167-ace7-4e333f00dd11.png)
+2. Name your instant and choose your AMI
 
-3. Connect via ssh
+![2  Input Name and AMI](https://user-images.githubusercontent.com/129324316/232101913-1d5be5b7-facf-418d-975e-4fb46c440218.png)
+
+3. Input key pair and select existing security group
+
+![3  Input key pair and select existing security group](https://user-images.githubusercontent.com/129324316/232102090-6649a367-80d8-44dc-83ab-7aeb40f3d8c3.png)
+
+4. Click on advanced details
+
+![4  Click on advanced details](https://user-images.githubusercontent.com/129324316/232102105-2bc50b3d-0cef-477a-88cc-e6b48816a8db.png)
+
+5. Input bash script here in this format
+![5  Input bash script here in this format](https://user-images.githubusercontent.com/129324316/232102124-e3bc2f6e-71fa-4ea3-9a8e-c976e385dda1.png)
+
+```
+#!/bin/bash 
+sudo apt update -y 
+sudo apt upgrade -y 
+sudo apt install nginx -y 
+sudo systemctl restart nginx 
+sudo systemctl enable nginx
+```
+6. Connect your ssh client
+![6  Connect your ssh client](https://user-images.githubusercontent.com/129324316/232102782-dd8dd0fe-615e-4d76-b769-1f976b398687.png)
+
+
+7. Locate your IP address
+
+![7  locating public ip](https://user-images.githubusercontent.com/129324316/232102926-357521b2-54fd-4e3b-ad46-c50980f926c1.png)
+
+8. Input into the web to see if it works
+![7  Input ip address](https://user-images.githubusercontent.com/129324316/232102810-e1179c6f-3980-4096-93e7-05583d037aaa.png)
 
 
 ## Finding environment variables/ variables in linux
