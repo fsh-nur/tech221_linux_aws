@@ -1,9 +1,8 @@
 # AMIs in AWS
 
 ## What is an AMI?
+An Amazon Machine Image (AMI) is a supported and maintained image provided by AWS that provides the information required to launch an instance. You must specify an AMI when you launch an instance. You can launch multiple instances from a single AMI when you require multiple instances with the same configuration. You can use different AMIs to launch instances when you require instances with different configurations.
 
-
-## Use Cases
 
 # Creating an AMI in AWS:
 So we have already created an instance where we have installed nginx. Now we can create an AMI so that everytime we would like to run nginx, we do not have install it manually through a long process, and instead launch it with the AMI.
@@ -49,3 +48,6 @@ So we have already created an instance where we have installed nginx. Now we can
 
 14. You should see the following page.
 ![14  You should see this page when you put your ip address in](https://user-images.githubusercontent.com/129324316/232039356-a2288dd8-0909-4540-8f48-295ba1980ce7.png)
+
+15. Connect to the ssh client by navigating to the following page and went pasting this into your gitbash, change the "root" to "ubuntu" 
+
