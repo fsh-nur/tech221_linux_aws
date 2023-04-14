@@ -1,6 +1,6 @@
 # Environements in linux
 
-## How to provison an environment in linux using bash script
+## How to provision an environment in linux using bash script
 
 1. Naming the environment
 
