@@ -36,6 +36,8 @@
 `sudo systemctl restart nginx`
 - In order to update
 `sudo apt update`
+- In orderr to check the status of nginx
+` sudo systemctl status nginx`
 - Upgrade system and automate "continue"
 `sudo apt upgrade -y`
 - How to access the root
