@@ -19,7 +19,10 @@
 
 ![4  Click on advanced details](https://user-images.githubusercontent.com/129324316/232102105-2bc50b3d-0cef-477a-88cc-e6b48816a8db.png)
 
+
+
 5. Input bash script here in this format
+
 ![5  Input bash script here in this format](https://user-images.githubusercontent.com/129324316/232102124-e3bc2f6e-71fa-4ea3-9a8e-c976e385dda1.png)
 
 ```
