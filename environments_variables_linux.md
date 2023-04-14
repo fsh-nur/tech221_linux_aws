@@ -6,7 +6,7 @@
 
 ![1  nameing](https://user-images.githubusercontent.com/129324316/232074574-91c5e967-47c2-4687-8318-d0dc840f228a.png)
 
-2. Inputting the bash script used in order to instsll nginx within the "user_data! in "Adavanced Options" when scrolling down
+2. Inputting the bash script used in order to install nginx within the "user_data! in "Adavanced Options" when scrolling down
 
 ![4  bash in user_data automation](https://user-images.githubusercontent.com/129324316/232074781-0792a45f-c01a-4167-ace7-4e333f00dd11.png)
 
