@@ -52,3 +52,4 @@ So we have already created an instance where we have installed nginx. Now we can
 15. Connect to the ssh client by navigating to the following page and went pasting this into your gitbash, change the "root" to "ubuntu" 
 ![image](https://user-images.githubusercontent.com/129324316/232051371-d4fbb6c8-ebf7-4ceb-a403-21edf72b6234.png)
 
+![image](https://user-images.githubusercontent.com/129324316/232051562-2c3aec25-3fea-4181-a53a-f93644689df5.png)
