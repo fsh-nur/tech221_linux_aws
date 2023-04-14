@@ -17,3 +17,6 @@
 ![image](https://user-images.githubusercontent.com/129324316/231766219-68a17763-e441-4b05-afd2-c436b09bf3f8.png)
 
 ![image](https://user-images.githubusercontent.com/129324316/231766520-61b0b9fc-03ea-48d2-8dde-c871afbb1393.png)
+
+## Bloclers you may encounter:
+Stopping your instance for too long may make aws change the ip, so reconnect again if you encounter this error.
